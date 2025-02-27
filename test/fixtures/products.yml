@@ -1,13 +1,27 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
+  title: Programming Ruby 1.9
   description: MyText
   image_url: abc.jpg
   price: 5
 
 two:
   title: abc
+  description: abc
+  image_url: abc.jpg
+  price: 10
+  
+
+three:
+  title: cde
+  description: abc
+  image_url: abc.jpg
+  price: 10
+
+
+four:
+  title: efg
   description: abc
   image_url: abc.jpg
   price: 10
